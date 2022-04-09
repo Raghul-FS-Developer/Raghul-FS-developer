@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghul! Nice to see you.</h1>
-<h6 align="center">I'm Fullstack developer with the right mix of Functional programming from Chennai, Tamil Nadu. Goal driven person who loves to live on the bleeding edge of technology and passionate about learning new things.</h6><br/><br/>
+<h6 align="center">I'm Fullstack developer with the right mix of Functional programming from Chennai, Tamil Nadu. Goal driven person who loves to live on the bleeding edge of technology and passionate about learning new things.</h6><br/>
 
 - 👨‍💻 yes🙋‍♂️ I'm a **Technophile,Recluse,Xenophile,philocaly,Hodophile**
 
