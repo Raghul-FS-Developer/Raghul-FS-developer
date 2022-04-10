@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **raghulraghu2002@gmail.com**
 
-- ⚡ Fun fact **humorous guy**
+- ⚡ Fun fact **humorous person**
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 <h3 align="left">Connect with me:</h3>
