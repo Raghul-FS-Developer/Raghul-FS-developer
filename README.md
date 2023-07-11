@@ -5,7 +5,7 @@
 
 - 👨‍💻 yes🙋‍♂️ I'm a **Technophile,Recluse,Xenophile,philocaly,Hodophile**
 
-- 🌱 I’m currently learning **system design**
+- 🌱 I’m currently learning **ServiceNow development**
 
 - 🤝 I’m looking for a good Team to **learn,develop and Enhance my skills**
 
