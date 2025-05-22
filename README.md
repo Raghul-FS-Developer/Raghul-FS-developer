@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Raghul! Nice to see you.</h1>
 <h6 align="center">I'm Fullstack developer with the right mix of Functional programming from Chennai, Tamil Nadu. Goal driven person who loves to live on the bleeding edge of technology and passionate about learning new things.</h6><br/>
 
-- 👨‍💻 yes🙋‍♂️ I'm a **Technophile,Recluse,Xenophile,philocaly,Hodophile**
+- 👨‍💻 yes🙋‍♂️ I'm a **Technophile**
 
-- 🌱 I’m currently learning **ServiceNow development**
+- 🌱 I’m currently learning **DSA**
 
 - 🤝 I’m looking for a good Team to **learn,develop and Enhance my skills**
 
@@ -13,13 +13,12 @@
 
 - 📫 How to reach me **raghulraghu2002@gmail.com**
 
-- ⚡ Fun fact **humorous person**
+- ⚡ Fun fact **I'm Batman**
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/raghul-r-241708245" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghul" height="30" width="40" /></a>
-<a href="https://instagram.com/_.prince_raghul._"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.prince_raghul._" height="30" width="40" /></a>
+<a href="https://instagram.com/raghul_r._"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghul_r._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Things I Code With:</h3>
